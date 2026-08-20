@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Binary Search
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

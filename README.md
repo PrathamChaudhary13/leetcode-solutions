@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Database
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -55,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -81,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

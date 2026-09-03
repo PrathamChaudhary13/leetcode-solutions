@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

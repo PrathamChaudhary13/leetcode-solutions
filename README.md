@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

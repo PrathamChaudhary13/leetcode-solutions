@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

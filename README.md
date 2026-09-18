@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |

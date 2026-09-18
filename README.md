@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

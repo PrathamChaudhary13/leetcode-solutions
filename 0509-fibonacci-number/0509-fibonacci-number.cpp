@@ -7,15 +7,6 @@ public:
         if (n == 1)
             return 1;
 
-        int x = 0;
-        int y = 1;
-
-        for (int i = 2; i <= n; i++) {
-            int z = x + y;
-            x = y;
-            y = z;
-        }
-
-        return y;
+        return fib(n-1) + fib(n-2);
     }
 };

@@ -1,26 +1,31 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& nums) {
-        int cnt=0;
-        int el=0;
-        for(int i=0;i<nums.size();i++){
-            if(cnt == 0){
-                cnt = 1;
-                el = nums[i];
+    int findMajority(vector<int>& nums, int left, int right) {
+        if (left == right) 
+            return nums[left];
+        
+        int mid = left + (right - left) / 2;
+        int lM = findMajority(nums, left, mid);
+        int rM = findMajority(nums, mid + 1, right);
+
+        if (lM == rM) 
+            return lM;
+        
+        int lc = 0, rc = 0;
+
+        for (int i = left; i <= right; i++) {
+            if (nums[i] == lM) {
+                lc++;
             }
-            else if(nums[i] == el)
-                cnt++;
-            else 
-                cnt--;
+            if (nums[i] == rM) {
+                rc++;
+            }
         }
-        int cnt1=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i] == el)
-                cnt1++;
-        }
-        if(cnt1 > (nums.size()/2))
-            return el;
-            
-        return -1;
-    } 
+
+        return (lc > rc) ? lM : rM;
+    }
+
+    int majorityElement(vector<int>& nums) {
+        return findMajority(nums, 0, nums.size() - 1);
+    }
 };

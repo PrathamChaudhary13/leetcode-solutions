@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->

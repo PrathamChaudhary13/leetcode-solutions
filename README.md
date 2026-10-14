@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->

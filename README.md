@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Bit Manipulation
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +170,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

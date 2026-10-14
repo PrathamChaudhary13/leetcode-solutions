@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
 | ------- |

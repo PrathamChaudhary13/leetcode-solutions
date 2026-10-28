@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Bit Manipulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PrathamChaudhary13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
